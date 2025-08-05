@@ -16,6 +16,7 @@ public class Principal {
        }else{
          System.out.println("ACESSO NEGADO ");
        }
+       entrada.close();
         }
     }
 

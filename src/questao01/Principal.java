@@ -15,6 +15,6 @@ public class Principal {
        }else{
          System.out.println("O maior número é "+y);
        }
-
+       entrada.close();
     }
 }
